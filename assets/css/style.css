@@ -37,8 +37,9 @@ h2 {
 
 /* Header scetion */
 #hero {
-    background: url("assets/images/background.webp") #dbdcde;
+    background: url("../images/background.webp") #dbdcde;
     background-position: 50% 70%;
+    background-size: cover;
     min-height: 500px;
-    padding: 7% 5;
+    padding: 7% 5%;
 }
